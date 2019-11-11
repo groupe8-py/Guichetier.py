@@ -1,3 +1,4 @@
+"""DJAKBA ROLAND 16B094FS"""
 from Compte import Compte
  
 class Guichetier(Compte): #Sous-Classe Guichetier ayant comme classe mere Personne
